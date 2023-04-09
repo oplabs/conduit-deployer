@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# nodejs junk
+node_modules/
+
+# ApeWorx junk
+.build/
+
+# SublimeText junk
+*.sublime-*
