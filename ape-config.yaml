@@ -18,5 +18,7 @@ hardhat:
     ethereum:
       mainnet:
         upstream_provider: alchemy
+      goerli:
+        upstream_provider: alchemy
       polygon:
         upstream_provider: alchemy
